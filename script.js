@@ -10,7 +10,6 @@ closeBtn.addEventListener('click', () => {
   menu.style.display = 'none';
 });
 
-
 const projects = {
 
   artist1: {
