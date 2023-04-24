@@ -52,6 +52,10 @@
 
 - [Live Demo Link](https://sanamrahimi.github.io/capstone-project1/)
 
+
+- [more information in my loom video ](https://www.loom.com/share/764209b2206c48c3995eaeb939b4b730/)
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -140,16 +144,18 @@ If you like this project please contribute to make it better.
 
 I would like to thank Microverse community.
 
+Original design idea by [Cindy Shin in Behance](https://www.behance.net/adagio07).
+
+The original design is under [Creative Commons license of the design](https://creativecommons.org/licenses/by-nc/4.0/).
+
+Multimedia and content changes were made in this project.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](https://github.com/sanamrahimi/capstone-project1/blob/devlop/LICENSE) licensed. 
 
-Original design idea by [Cindy Shin in Behance](https://www.behance.net/adagio07).
 
-The original design is under [Creative Commons license of the design](https://creativecommons.org/licenses/by-nc/4.0/).
-
-Multimedia and content changes were made in this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
