@@ -53,7 +53,7 @@
 - [Live Demo Link](https://sanamrahimi.github.io/capstone-project1/)
 
 
-- [more information in my loom video ](https://www.loom.com/share/764209b2206c48c3995eaeb939b4b730/)
+- [more information in my loom video ]()
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -98,7 +98,7 @@ No tests available
 
 ### Deployment
 
-You can deploy this project using:
+You can deploy this project using:.
 
 Browser (Chrome recommended)
 
@@ -155,7 +155,6 @@ Multimedia and content changes were made in this project.
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](https://github.com/sanamrahimi/capstone-project1/blob/devlop/LICENSE) licensed. 
-
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
